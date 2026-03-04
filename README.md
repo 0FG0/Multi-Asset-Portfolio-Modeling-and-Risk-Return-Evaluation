@@ -1,4 +1,4 @@
-# 📊 Historical and Forecast Analysis of Stocks (2014–2024)
+# Historical and Forecast Analysis of Stocks (2014–2024)
 
 ---
 
