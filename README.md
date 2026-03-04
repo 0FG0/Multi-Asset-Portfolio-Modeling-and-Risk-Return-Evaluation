@@ -1,7 +1,5 @@
 # Historical and Forecast Analysis of Stocks (2014–2024)
 
----
-
 ## 🎯 Project Objective
 
 This project aims to perform a quantitative and statistical analysis of a set of US stocks over the period **2014–2024**, including:
@@ -13,8 +11,6 @@ This project aims to perform a quantitative and statistical analysis of a set of
 - Modeling and forecasting with **ARIMA**
 - Performance evaluation using error metrics
 
----
-
 ## 📈 Analyzed Stocks
 
 The selected stocks belong to different industrial sectors:
@@ -25,8 +21,6 @@ The selected stocks belong to different industrial sectors:
 - **(BA)** – Aerospace
 - **(GIS)** – Consumer Goods
 - **(HRL)** – Food
-
----
 
 ## 🛠 Libraries Used
 
@@ -42,8 +36,6 @@ The project is developed in **Python** using the following libraries:
 - `ffn` – Advanced Financial Analysis
 - `warnings` – Warning Management
 
----
-
 ## 📥 Data Download
 
 Historical data is downloaded via `yfinance` for the period:
@@ -51,8 +43,6 @@ Historical data is downloaded via `yfinance` for the period:
 May 31 2014 – May 31 2024
 
 The closing prices ('Close') for each stock are analyzed.
-
----
 
 ## 📊 Analyses Performed
 
@@ -129,8 +119,6 @@ Comparison between:
 - Actual values
 - Predicted values
 
----
-
 ## 📌 Notebook Structure
 
 1. Import libraries
@@ -142,8 +130,6 @@ Comparison between:
 7. ARIMA modeling
 8. Forecast evaluation
 
----
-
 ## 🚀 Possible Extensions
 
 - Construction of an optimized portfolio
@@ -152,8 +138,6 @@ Comparison between:
 - Comparison with benchmarks (e.g., S&P 500)
 - Implementation of GARCH models for volatility
 
----
-
 ## 🧠 Applied Skills
 
 - Time Series Analysis
@@ -161,8 +145,6 @@ Comparison between:
 - Predictive modeling
 - Data visualization
 - Statistical model evaluation
-
----
 
 ## ▶️ How to Run the Project
 
