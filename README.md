@@ -19,12 +19,12 @@ This project aims to perform a quantitative and statistical analysis of a set of
 
 The selected stocks belong to different industrial sectors:
 
-- **:contentReference[oaicite:0]{index=0} (TSLA)** – Automotive / EV
-- **:contentReference[oaicite:1]{index=1} (GM)** – Automotive
-- **:contentReference[oaicite:2]{index=2} (LMT)** – Defense / Aerospace
-- **:contentReference[oaicite:3]{index=3} (BA)** – Aerospace
-- **:contentReference[oaicite:4]{index=4} (GIS)** – Consumer Goods
-- **:contentReference[oaicite:5]{index=5} (HRL)** – Food
+- **(TSLA)** – Automotive / EV
+- **(GM)** – Automotive
+- **(LMT)** – Defense / Aerospace
+- **(BA)** – Aerospace
+- **(GIS)** – Consumer Goods
+- **(HRL)** – Food
 
 ---
 
@@ -69,12 +69,6 @@ For each stock, the following are calculated:
 
 - **Cumulative Return**
 - **CAGR (Compound Annual Growth Rate)**
-
-CAGR Formula:
-
-\[
-CAGR = \left(\frac{Final Price}{Initial Price}\right)^{\frac{1}{years}} - 1
-\]
 
 ---
 
