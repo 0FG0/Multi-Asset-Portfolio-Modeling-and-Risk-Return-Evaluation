@@ -51,8 +51,6 @@ The closing prices ('Close') for each stock are analyzed.
 - Closing Price Chart
 - Direct Stock Comparison
 
----
-
 ### 2️⃣ Calculating Returns
 
 For each stock, the following are calculated:
@@ -60,15 +58,11 @@ For each stock, the following are calculated:
 - **Cumulative Return**
 - **CAGR (Compound Annual Growth Rate)**
 
----
-
 ### 3️⃣ Cumulative Return Analysis
 
 - Construction of the Cumulative Return Chart
 - Comparison of Growth Over Time
 - Relative Volatility Analysis
-
----
 
 ### 4️⃣ Statistical Analysis of Returns
 
@@ -80,8 +74,6 @@ For each stock, the following are calculated:
 - Skewness
 - Kurtosis
 
----
-
 ### 5️⃣ Stationarity Test (ADF Test)
 
 To test the stationarity of time series, the following is used:
@@ -91,8 +83,6 @@ To test the stationarity of time series, the following is used:
 Objective:
 - Determine whether the series is stationary
 - Establish the need for differencing for the ARIMA model
-
----
 
 ### 6️⃣ ARIMA Modeling
 
@@ -106,8 +96,6 @@ ARIMA Components:
 - **AR (AutoRegressive)**
 - **I (Integrated)**
 - **MA (Moving Average)**
-
----
 
 ### 7️⃣ Model Evaluation
 
