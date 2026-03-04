@@ -48,7 +48,7 @@ The project is developed in **Python** using the following libraries:
 
 Historical data is downloaded via `yfinance` for the period:
 
-31 Maggio 2014 – 31 Maggio 2024
+May 31 2014 – May 31 2024
 
 The closing prices ('Close') for each stock are analyzed.
 
